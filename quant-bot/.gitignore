@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+*.sqlite
+*.parquet
+# Data dumps
+/data/

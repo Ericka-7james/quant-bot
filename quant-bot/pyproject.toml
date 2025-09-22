@@ -1,0 +1,15 @@
+[project]
+name = "quant-bot"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas", "numpy", "requests",
+  "pandas_ta", "vectorbt==0.24.5; python_version<'3.12'",
+  "plotly", "pydantic", "python-dotenv",
+  # choose one broker later:
+  # "alpaca-trade-api",
+  # "ib-insync"
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
