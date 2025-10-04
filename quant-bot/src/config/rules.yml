@@ -1,6 +1,1 @@
-# Simple rule examples (edit these)
-AAPL:
-  buy_below: 165
-  take_profit: 195
-  stop: 158
-  max_size_pct: 4
+# TODO: Add simple rule examples (edit these)

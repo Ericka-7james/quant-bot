@@ -1,6 +1,1 @@
-# Tickers you care about + IPO watch toggles
-watchlist:
-  - AAPL
-  - MSFT
-  - SPY
-ipo_watch: true
+# TODO: Add tickers you care about + IPO watch toggles
