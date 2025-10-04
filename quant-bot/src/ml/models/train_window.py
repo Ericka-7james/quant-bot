@@ -1,1 +1,0 @@
-# Model 2: Window pattern recognition

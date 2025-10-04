@@ -1,1 +1,0 @@
-# Model 3: News-based sentiment/forecast
