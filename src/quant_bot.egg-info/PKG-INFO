@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: quant-bot
+Version: 0.1.0
+Requires-Python: >=3.10
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: requests
+Requires-Dist: pandas_ta
+Requires-Dist: vectorbt==0.24.5; python_version < "3.12"
+Requires-Dist: plotly
+Requires-Dist: pydantic
+Requires-Dist: python-dotenv
