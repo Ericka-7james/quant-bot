@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+pandas_ta
+plotly
+pydantic
+python-dotenv
+
+[:python_version < "3.12"]
+vectorbt==0.24.5

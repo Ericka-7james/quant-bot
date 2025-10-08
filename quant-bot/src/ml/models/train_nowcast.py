@@ -1,1 +1,0 @@
-# Model 1: Nowcast (short-term trend)

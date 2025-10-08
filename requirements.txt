@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+feedparser
+vaderSentiment
+yfinance
+pyarrow
+plotly
+streamlit
