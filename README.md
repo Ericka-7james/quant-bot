@@ -33,6 +33,14 @@ The goal is to move from *learning how markets talk* → *building models that l
 
 ---
 
+## 🧠 Quant Bot Architecture (Interactive Diagram)
+[View in FigJam →](https://www.figma.com/board/j98omQI7Lze13Was4vVmzv/Quant-Bot-Diagram-with-Explanations?node-id=0-1&p=f&t=TMI9u7pZLVE5Kdof-0
+)
+
+> This diagram visualizes the Quant Bot pipeline — data ingestion → modeling → metrics → “The Voice” reports, with key term explanations and advantages.
+
+---
+
 # 🚀 Getting Started
 
 ### 1️⃣ Environment Setup
